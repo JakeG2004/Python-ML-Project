@@ -1,381 +1,560 @@
-Year,Scientific Name,Country,Conservation Status,Kilotons of Co2,Metric Tons Per Capita
-2018,Crocodylus moreletii,Belize,Least Concern,630.0,1.65
-2015,Crocodylus acutus,Venezuela,Vulnerable,163130.0,5.34
-2010,Crocodylus intermedius,Venezuela,Critically Endangered,164100.01,5.71
-2019,Crocodylus moreletii,Mexico,Least Concern,449269.99,3.59
-2019,Crocodylus palustris,India,Vulnerable,2456300.05,1.78
-2010,Crocodylus siamensis,Thailand,Critically Endangered,234380.0,3.43
-2016,Crocodylus moreletii,Mexico,Least Concern,473310.0,3.89
-2018,Osteolaemus tetraspis,Liberia,Vulnerable,1130.0,0.23
-2019,Crocodylus moreletii,Belize,Least Concern,640.0,1.64
-2015,Crocodylus siamensis,Cambodia,Critically Endangered,8430.0,0.55
-2006,Crocodylus acutus,Mexico,Vulnerable,448299.99,4.19
-2007,Crocodylus moreletii,Mexico,Least Concern,457120.0,4.22
-2017,Crocodylus porosus,Philippines,Least Concern,133500.0,1.25
-2013,Crocodylus niloticus,Tanzania,Least Concern,10810.0,0.22
-2007,Crocodylus rhombifer,Cuba,Critically Endangered,27680.0,2.46
-2017,Crocodylus niloticus,Kenya,Least Concern,18980.0,0.39
-2019,Crocodylus intermedius,Venezuela,Critically Endangered,112340.0,3.88
-2012,Crocodylus siamensis,Cambodia,Critically Endangered,5670.0,0.38
-2018,Crocodylus intermedius,Venezuela,Critically Endangered,132130.0,4.43
-2014,Crocodylus acutus,United States,Vulnerable,5107209.96,16.04
-2017,Crocodylus rhombifer,Cuba,Critically Endangered,26240.0,2.31
-2008,Crocodylus mindorensis,Philippines,Critically Endangered,75150.0,0.82
-2010,Mecistops cataphractus,Liberia,Critically Endangered,730.0,0.18
-2014,Crocodylus johnstoni,Australia,Least Concern,371630.0,15.83
-2017,Crocodylus suchus,Senegal,Least Concern,9800.0,0.65
-2008,Crocodylus palustris,Pakistan,Vulnerable,142160.0,0.76
-2008,Crocodylus siamensis,Thailand,Critically Endangered,227580.0,3.38
-2006,Crocodylus moreletii,Guatemala,Least Concern,11520.0,0.87
-2012,Crocodylus moreletii,Guatemala,Least Concern,12150.0,0.82
-2012,Crocodylus intermedius,Venezuela,Critically Endangered,181130.0,6.15
-2015,Mecistops cataphractus,Sierra Leone,Critically Endangered,910.0,0.12
-2019,Crocodylus novaeguineae,Indonesia,Least Concern,619840.03,2.3
-2009,Mecistops cataphractus,Sierra Leone,Critically Endangered,520.0,0.08
-2011,Crocodylus porosus,Papua New Guinea,Least Concern,5160.0,0.66
-2018,Crocodylus novaeguineae,Papua New Guinea,Least Concern,7560.0,0.81
-2019,Mecistops cataphractus,Guinea,Critically Endangered,3950.0,0.31
-2006,Crocodylus intermedius,Venezuela,Critically Endangered,147530.0,5.44
-2010,Mecistops cataphractus,Nigeria,Critically Endangered,90060.0,0.56
-2015,Crocodylus porosus,Indonesia,Least Concern,488549.99,1.89
-2005,Crocodylus novaeguineae,Indonesia,Least Concern,342149.99,1.5
-2015,Crocodylus siamensis,Vietnam,Critically Endangered,220649.99,2.39
-2014,Osteolaemus tetraspis,Cameroon,Vulnerable,8250.0,0.37
-2015,Crocodylus niloticus,Kenya,Least Concern,17210.0,0.37
-2009,Crocodylus johnstoni,Australia,Least Concern,395290.01,18.22
-2005,Crocodylus rhombifer,Cuba,Critically Endangered,26320.0,2.34
-2014,Mecistops leptorhynchus,Cameroon,Endangered,8250.0,0.37
-2006,Crocodylus porosus,Philippines,Least Concern,69470.0,0.79
-2011,Mecistops leptorhynchus,Republic Of Congo,Endangered,5380.0,1.17
-2005,Mecistops cataphractus,Nigeria,Critically Endangered,98720.0,0.7
-2009,Crocodylus niloticus,Egypt,Least Concern,197660.0,2.31
-2013,Crocodylus suchus,Mali,Least Concern,3220.0,0.19
-2019,Mecistops leptorhynchus,Gabon,Endangered,5250.0,2.34
-2018,Crocodylus porosus,Malaysia,Least Concern,244410.0,7.54
-2017,Crocodylus moreletii,Guatemala,Least Concern,16570.0,1.03
-2011,Crocodylus mindorensis,Philippines,Critically Endangered,82630.0,0.86
-2015,Crocodylus moreletii,Guatemala,Least Concern,16340.0,1.05
-2017,Mecistops leptorhynchus,Republic Of Congo,Endangered,5410.0,1.02
-2017,Crocodylus acutus,Costa Rica,Vulnerable,8260.0,1.65
-2009,Crocodylus halli,Papua New Guinea,Least Concern,5030.0,0.68
-2018,Crocodylus moreletii,Guatemala,Least Concern,18320.0,1.12
-2013,Crocodylus niloticus,Kenya,Least Concern,14100.0,0.31
-2018,Crocodylus acutus,Mexico,Vulnerable,452570.01,3.65
-2011,Crocodylus intermedius,Colombia,Critically Endangered,69100.0,1.53
-2016,Crocodylus palustris,Pakistan,Vulnerable,181110.0,0.85
-2006,Crocodylus suchus,Chad,Least Concern,510.0,0.05
-2006,Crocodylus novaeguineae,Indonesia,Least Concern,364470.0,1.57
-2013,Crocodylus porosus,Papua New Guinea,Least Concern,5240.0,0.64
-2019,Crocodylus mindorensis,Philippines,Critically Endangered,145420.0,1.32
-2006,Mecistops cataphractus,Liberia,Critically Endangered,690.0,0.2
-2011,Crocodylus suchus,Senegal,Least Concern,7570.0,0.59
-2014,Crocodylus suchus,Niger,Least Concern,2150.0,0.11
-2013,Mecistops cataphractus,Nigeria,Critically Endangered,108130.0,0.62
-2006,Crocodylus johnstoni,Australia,Least Concern,375489.99,18.36
-2019,Crocodylus niloticus,Tanzania,Least Concern,12450.0,0.21
-2009,Crocodylus porosus,India,Least Concern,1564880.0,1.28
-2005,Crocodylus johnstoni,Australia,Least Concern,370090.0,18.34
-2017,Crocodylus johnstoni,Australia,Least Concern,389160.0,15.82
-2011,Crocodylus porosus,Australia,Least Concern,386380.0,17.3
-2008,Crocodylus intermedius,Colombia,Critically Endangered,59780.0,1.36
-2006,Crocodylus porosus,Malaysia,Least Concern,174100.01,6.57
-2017,Osteolaemus tetraspis,Guinea,Vulnerable,3340.0,0.27
-2007,Crocodylus halli,Papua New Guinea,Least Concern,5050.0,0.73
-2015,Crocodylus palustris,Iran,Vulnerable,599179.99,7.33
-2007,Crocodylus acutus,Costa Rica,Vulnerable,7600.0,1.71
-2011,Crocodylus intermedius,Venezuela,Critically Endangered,160039.99,5.5
-2005,Crocodylus acutus,Mexico,Vulnerable,432190.0,4.1
-2012,Crocodylus suchus,Senegal,Least Concern,7450.0,0.56
-2016,Crocodylus novaeguineae,Indonesia,Least Concern,482510.01,1.84
-2013,Crocodylus niloticus,Nigeria,Least Concern,108130.0,0.62
-2017,Crocodylus suchus,Niger,Least Concern,1910.0,0.09
-2018,Osteolaemus tetraspis,Ghana,Vulnerable,18680.0,0.61
-2015,Crocodylus novaeguineae,Indonesia,Least Concern,488549.99,1.89
-2005,Crocodylus halli,Papua New Guinea,Least Concern,4930.0,0.76
-2007,Crocodylus porosus,India,Least Concern,1336739.99,1.12
-2008,Crocodylus novaeguineae,Papua New Guinea,Least Concern,4760.0,0.67
-2018,Crocodylus suchus,Senegal,Least Concern,10180.0,0.65
-2005,Crocodylus palustris,Iran,Vulnerable,450790.01,6.42
-2009,Crocodylus moreletii,Mexico,Least Concern,448370.0,4.04
-2008,Mecistops cataphractus,Ghana,Critically Endangered,8660.0,0.36
-2009,Osteolaemus tetraspis,Ghana,Vulnerable,10010.0,0.4
-2010,Crocodylus suchus,Mauritania,Least Concern,2400.0,0.7
-2008,Crocodylus porosus,Philippines,Least Concern,75150.0,0.82
-2017,Mecistops cataphractus,Nigeria,Critically Endangered,108500.0,0.56
-2013,Crocodylus moreletii,Belize,Least Concern,460.0,1.33
-2008,Osteolaemus tetraspis,Guinea,Vulnerable,2010.0,0.21
-2010,Osteolaemus tetraspis,Cameroon,Vulnerable,7010.0,0.35
-2019,Crocodylus acutus,Costa Rica,Vulnerable,8240.0,1.62
-2018,Crocodylus acutus,United States,Vulnerable,4975310.06,15.22
-2013,Crocodylus johnstoni,Australia,Least Concern,380280.0,16.44
-2007,Crocodylus acutus,Mexico,Vulnerable,457120.0,4.22
-2008,Crocodylus moreletii,Belize,Least Concern,500.0,1.64
-2013,Mecistops leptorhynchus,Cameroon,Endangered,7550.0,0.35
-2013,Crocodylus palustris,Iran,Vulnerable,583700.01,7.44
-2008,Crocodylus porosus,Malaysia,Least Concern,202910.0,7.33
-2013,Crocodylus novaeguineae,Indonesia,Least Concern,447940.0,1.77
-2012,Crocodylus rhombifer,Cuba,Critically Endangered,28690.0,2.54
-2019,Mecistops leptorhynchus,Cameroon,Endangered,9430.0,0.37
-2013,Osteolaemus tetraspis,Guinea,Vulnerable,2180.0,0.2
-2007,Crocodylus moreletii,Belize,Least Concern,530.0,1.78
-2013,Crocodylus intermedius,Venezuela,Critically Endangered,180429.99,6.05
-2016,Crocodylus rhombifer,Cuba,Critically Endangered,27170.0,2.4
-2007,Crocodylus siamensis,Vietnam,Critically Endangered,105140.0,1.24
-2017,Crocodylus acutus,Colombia,Vulnerable,74990.0,1.55
-2014,Crocodylus siamensis,Cambodia,Critically Endangered,6950.0,0.46
-2019,Crocodylus palustris,Sri Lanka,Vulnerable,23780.0,1.09
-2011,Crocodylus moreletii,Guatemala,Least Concern,11740.0,0.81
-2016,Crocodylus porosus,Australia,Least Concern,384989.99,15.91
-2006,Crocodylus rhombifer,Cuba,Critically Endangered,26780.0,2.38
-2012,Mecistops leptorhynchus,Gabon,Endangered,5600.0,3.05
-2010,Crocodylus acutus,Mexico,Vulnerable,462870.0,4.11
-2017,Osteolaemus tetraspis,Cameroon,Vulnerable,9170.0,0.38
-2018,Mecistops cataphractus,Sierra Leone,Critically Endangered,860.0,0.11
-2005,Crocodylus mindorensis,Philippines,Critically Endangered,76670.0,0.89
-2011,Crocodylus novaeguineae,Indonesia,Least Concern,475310.0,1.92
-2008,Crocodylus acutus,Mexico,Vulnerable,459549.99,4.19
-2007,Crocodylus suchus,Chad,Least Concern,500.0,0.05
-2009,Crocodylus moreletii,Guatemala,Least Concern,11850.0,0.85
-2016,Crocodylus acutus,Mexico,Vulnerable,473310.0,3.89
-2010,Crocodylus intermedius,Colombia,Critically Endangered,63560.0,1.42
-2012,Crocodylus acutus,Venezuela,Vulnerable,181130.0,6.15
-2015,Crocodylus moreletii,Mexico,Least Concern,471630.0,3.93
-2007,Crocodylus suchus,Mali,Least Concern,2070.0,0.15
-2018,Crocodylus johnstoni,Australia,Least Concern,387070.01,15.5
-2014,Crocodylus porosus,Indonesia,Least Concern,483910.0,1.89
-2016,Crocodylus acutus,Cuba,Vulnerable,27170.0,2.4
-2005,Mecistops leptorhynchus,Gabon,Endangered,6060.0,4.16
-2015,Crocodylus mindorensis,Philippines,Critically Endangered,111010.0,1.08
-2010,Crocodylus niloticus,Uganda,Least Concern,3330.0,0.1
-2011,Osteolaemus tetraspis,Liberia,Vulnerable,850.0,0.2
-2011,Crocodylus acutus,Cuba,Vulnerable,27590.0,2.44
-2005,Crocodylus palustris,Pakistan,Vulnerable,121670.0,0.7
-2006,Crocodylus palustris,Iran,Vulnerable,484179.99,6.79
-2009,Crocodylus mindorensis,Philippines,Critically Endangered,76300.0,0.82
-2009,Crocodylus rhombifer,Cuba,Critically Endangered,26980.0,2.39
-2011,Crocodylus niloticus,Tanzania,Least Concern,8190.0,0.18
-2009,Osteolaemus tetraspis,Cameroon,Vulnerable,7030.0,0.36
-2014,Crocodylus porosus,Malaysia,Least Concern,236649.99,7.73
-2007,Crocodylus siamensis,Cambodia,Critically Endangered,3660.0,0.27
-2010,Crocodylus niloticus,South Africa,Least Concern,425310.0,8.21
-2007,Crocodylus niloticus,Tanzania,Least Concern,5910.0,0.14
-2018,Crocodylus porosus,Australia,Least Concern,387070.01,15.5
-2016,Mecistops leptorhynchus,Republic Of Congo,Endangered,5500.0,1.06
-2009,Crocodylus intermedius,Colombia,Critically Endangered,62010.0,1.4
-2014,Crocodylus acutus,Colombia,Vulnerable,79200.0,1.7
-2012,Crocodylus novaeguineae,Indonesia,Least Concern,481510.01,1.92
-2016,Crocodylus mindorensis,Philippines,Critically Endangered,121960.0,1.16
-2019,Crocodylus novaeguineae,Papua New Guinea,Least Concern,7580.0,0.79
-2006,Mecistops leptorhynchus,Republic Of Congo,Endangered,4780.0,1.25
-2013,Mecistops cataphractus,Liberia,Critically Endangered,920.0,0.21
-2008,Osteolaemus tetraspis,Ghana,Vulnerable,8660.0,0.36
-2014,Crocodylus niloticus,South Africa,Least Concern,447929.99,8.18
-2012,Crocodylus porosus,India,Least Concern,1909439.94,1.5
-2015,Crocodylus rhombifer,Cuba,Critically Endangered,29210.0,2.58
-2011,Crocodylus siamensis,Cambodia,Critically Endangered,5360.0,0.37
-2012,Mecistops leptorhynchus,Cameroon,Endangered,6880.0,0.33
-2019,Crocodylus siamensis,Cambodia,Critically Endangered,16180.0,1.0
-2017,Crocodylus halli,Papua New Guinea,Least Concern,7610.0,0.83
-2008,Crocodylus novaeguineae,Indonesia,Least Concern,376140.01,1.58
-2015,Crocodylus halli,Papua New Guinea,Least Concern,6510.0,0.75
-2010,Crocodylus rhombifer,Cuba,Critically Endangered,28110.0,2.49
-2019,Mecistops leptorhynchus,Republic Of Congo,Endangered,7260.0,1.3
-2018,Crocodylus mindorensis,Philippines,Critically Endangered,138570.01,1.28
-2017,Crocodylus intermedius,Venezuela,Critically Endangered,140820.01,4.61
-2016,Crocodylus siamensis,Cambodia,Critically Endangered,11070.0,0.71
-2013,Crocodylus mindorensis,Philippines,Critically Endangered,95500.0,0.96
-2006,Crocodylus palustris,Sri Lanka,Vulnerable,12400.0,0.63
-2009,Crocodylus suchus,Chad,Least Concern,790.0,0.07
-2017,Crocodylus siamensis,Thailand,Critically Endangered,258820.01,3.65
-2011,Crocodylus acutus,Colombia,Vulnerable,69100.0,1.53
-2011,Crocodylus palustris,Pakistan,Vulnerable,141700.0,0.71
-2014,Mecistops leptorhynchus,Republic Of Congo,Endangered,5190.0,1.05
-2008,Crocodylus niloticus,Kenya,Least Concern,9910.0,0.25
-2014,Crocodylus novaeguineae,Indonesia,Least Concern,483910.0,1.89
-2016,Mecistops cataphractus,Guinea,Critically Endangered,2820.0,0.24
-2016,Mecistops cataphractus,Ghana,Critically Endangered,16070.0,0.54
-2005,Mecistops leptorhynchus,Republic Of Congo,Endangered,4310.0,1.17
-2011,Crocodylus porosus,Philippines,Least Concern,82630.0,0.86
-2015,Crocodylus johnstoni,Australia,Least Concern,377799.99,15.86
-2008,Crocodylus halli,Papua New Guinea,Least Concern,4760.0,0.67
-2019,Osteolaemus tetraspis,Liberia,Vulnerable,1180.0,0.24
-2015,Crocodylus niloticus,Sudan,Least Concern,18710.0,0.49
-2012,Crocodylus mindorensis,Philippines,Critically Endangered,86180.0,0.88
-2012,Crocodylus siamensis,Vietnam,Critically Endangered,155520.0,1.74
-2018,Mecistops cataphractus,Liberia,Critically Endangered,1130.0,0.23
-2019,Crocodylus palustris,Nepal,Vulnerable,13450.0,0.47
-2009,Mecistops leptorhynchus,Republic Of Congo,Endangered,4840.0,1.14
-2016,Crocodylus novaeguineae,Papua New Guinea,Least Concern,7660.0,0.86
-2016,Crocodylus johnstoni,Australia,Least Concern,384989.99,15.91
-2018,Crocodylus moreletii,Mexico,Least Concern,452570.01,3.65
-2017,Crocodylus palustris,Sri Lanka,Vulnerable,23360.0,1.09
-2015,Crocodylus novaeguineae,Papua New Guinea,Least Concern,6510.0,0.75
-2018,Crocodylus halli,Papua New Guinea,Least Concern,7560.0,0.81
-2005,Crocodylus porosus,Papua New Guinea,Least Concern,4930.0,0.76
-2007,Crocodylus novaeguineae,Papua New Guinea,Least Concern,5050.0,0.73
-2018,Crocodylus novaeguineae,Indonesia,Least Concern,576989.99,2.16
-2013,Crocodylus moreletii,Mexico,Least Concern,475739.99,4.06
-2013,Crocodylus novaeguineae,Papua New Guinea,Least Concern,5240.0,0.64
-2008,Crocodylus acutus,Colombia,Vulnerable,59780.0,1.36
-2007,Mecistops cataphractus,Ghana,Critically Endangered,9120.0,0.38
-2015,Crocodylus porosus,Philippines,Least Concern,111010.0,1.08
-2014,Crocodylus acutus,Mexico,Vulnerable,462239.99,3.89
-2007,Mecistops leptorhynchus,Republic Of Congo,Endangered,4150.0,1.05
-2005,Crocodylus niloticus,Kenya,Least Concern,8320.0,0.23
-2011,Mecistops leptorhynchus,Cameroon,Endangered,6810.0,0.33
-2005,Crocodylus novaeguineae,Papua New Guinea,Least Concern,4930.0,0.76
-2011,Crocodylus rhombifer,Cuba,Critically Endangered,27590.0,2.44
-2007,Crocodylus acutus,Cuba,Vulnerable,27680.0,2.46
-2008,Osteolaemus tetraspis,Liberia,Vulnerable,540.0,0.14
-2016,Mecistops leptorhynchus,Cameroon,Endangered,9080.0,0.38
-2006,Crocodylus niloticus,Egypt,Least Concern,170750.0,2.12
-2012,Crocodylus johnstoni,Australia,Least Concern,386970.0,17.02
-2009,Crocodylus acutus,Cuba,Vulnerable,26980.0,2.39
-2012,Crocodylus moreletii,Mexico,Least Concern,486450.01,4.2
-2009,Mecistops leptorhynchus,Cameroon,Endangered,7030.0,0.36
-2019,Crocodylus halli,Papua New Guinea,Least Concern,7580.0,0.79
-2014,Mecistops leptorhynchus,Gabon,Endangered,5960.0,3.03
-2019,Crocodylus intermedius,Colombia,Critically Endangered,81040.0,1.61
-2009,Crocodylus novaeguineae,Indonesia,Least Concern,391079.99,1.62
-2006,Crocodylus niloticus,South Africa,Least Concern,379790.01,7.67
-2006,Crocodylus niloticus,Kenya,Least Concern,9300.0,0.25
-2012,Crocodylus novaeguineae,Papua New Guinea,Least Concern,4890.0,0.61
-2010,Crocodylus porosus,India,Least Concern,1659979.98,1.34
-2017,Crocodylus siamensis,Vietnam,Critically Endangered,230450.0,2.45
-2005,Crocodylus niloticus,Tanzania,Least Concern,5660.0,0.14
-2012,Crocodylus halli,Papua New Guinea,Least Concern,4890.0,0.61
-2018,Crocodylus suchus,Mauritania,Least Concern,3690.0,0.86
-2019,Crocodylus porosus,Malaysia,Least Concern,253270.0,7.72
-2009,Crocodylus intermedius,Venezuela,Critically Endangered,152590.0,5.39
-2016,Osteolaemus tetraspis,Ghana,Vulnerable,16070.0,0.54
-2013,Crocodylus rhombifer,Cuba,Critically Endangered,28870.0,2.55
-2007,Osteolaemus tetraspis,Ghana,Vulnerable,9120.0,0.38
-2014,Crocodylus porosus,Philippines,Least Concern,101820.0,1.0
-2010,Crocodylus palustris,Nepal,Vulnerable,4640.0,0.17
-2005,Crocodylus intermedius,Venezuela,Critically Endangered,147380.0,5.53
-2006,Crocodylus porosus,India,Least Concern,1215209.96,1.04
-2006,Crocodylus niloticus,Nigeria,Least Concern,88770.0,0.62
-2005,Crocodylus moreletii,Mexico,Least Concern,432190.0,4.1
-2010,Crocodylus siamensis,Vietnam,Critically Endangered,151410.0,1.73
-2018,Mecistops leptorhynchus,Gabon,Endangered,5120.0,2.34
-2013,Crocodylus suchus,Chad,Least Concern,2190.0,0.17
-2007,Osteolaemus tetraspis,Liberia,Vulnerable,640.0,0.18
-2010,Crocodylus halli,Papua New Guinea,Least Concern,5020.0,0.66
-2005,Crocodylus niloticus,Uganda,Least Concern,2020.0,0.07
-2016,Crocodylus suchus,Chad,Least Concern,2210.0,0.15
-2010,Crocodylus porosus,Philippines,Least Concern,81930.0,0.87
-2013,Crocodylus acutus,Mexico,Vulnerable,475739.99,4.06
-2019,Crocodylus johnstoni,Australia,Least Concern,386530.0,15.25
-2012,Crocodylus palustris,Sri Lanka,Vulnerable,16850.0,0.83
-2017,Crocodylus novaeguineae,Indonesia,Least Concern,517320.01,1.96
-2007,Osteolaemus tetraspis,Sierra Leone,Vulnerable,500.0,0.08
-2006,Mecistops leptorhynchus,Gabon,Endangered,5440.0,3.62
-2007,Crocodylus palustris,Sri Lanka,Vulnerable,13590.0,0.68
-2019,Crocodylus palustris,Iran,Vulnerable,630010.01,7.28
-2016,Crocodylus intermedius,Venezuela,Critically Endangered,151070.01,4.91
-2008,Crocodylus niloticus,Tanzania,Least Concern,6080.0,0.14
-2014,Crocodylus suchus,Mali,Least Concern,3380.0,0.19
-2010,Crocodylus suchus,Sudan,Least Concern,16420.0,0.49
-2016,Crocodylus niloticus,Uganda,Least Concern,4950.0,0.13
-2014,Crocodylus rhombifer,Cuba,Critically Endangered,26690.0,2.36
-2005,Mecistops leptorhynchus,Cameroon,Endangered,5020.0,0.29
-2008,Osteolaemus tetraspis,Cameroon,Vulnerable,6390.0,0.34
-2007,Crocodylus suchus,Niger,Least Concern,820.0,0.06
-2019,Crocodylus suchus,Mali,Least Concern,5830.0,0.28
-2014,Crocodylus suchus,Senegal,Least Concern,8570.0,0.61
-2017,Crocodylus intermedius,Colombia,Critically Endangered,74990.0,1.55
-2009,Mecistops cataphractus,Nigeria,Critically Endangered,76950.0,0.49
-2016,Osteolaemus tetraspis,Guinea,Vulnerable,2820.0,0.24
-2017,Osteolaemus tetraspis,Liberia,Vulnerable,1280.0,0.27
-2018,Crocodylus intermedius,Colombia,Critically Endangered,78590.0,1.59
-2007,Crocodylus niloticus,South Africa,Least Concern,397060.0,7.94
-2011,Crocodylus suchus,Niger,Least Concern,1410.0,0.08
-2010,Crocodylus porosus,Australia,Least Concern,387540.01,17.59
-2014,Crocodylus moreletii,Guatemala,Least Concern,13950.0,0.91
-2007,Mecistops cataphractus,Sierra Leone,Critically Endangered,500.0,0.08
-2006,Crocodylus siamensis,Vietnam,Critically Endangered,94870.0,1.13
-2005,Osteolaemus tetraspis,Ghana,Vulnerable,7040.0,0.31
-2007,Crocodylus mindorensis,Philippines,Critically Endangered,73220.0,0.82
-2013,Crocodylus acutus,Colombia,Vulnerable,76860.0,1.66
-2007,Crocodylus novaeguineae,Indonesia,Least Concern,379959.99,1.62
-2015,Crocodylus palustris,Pakistan,Vulnerable,164130.0,0.78
-2010,Crocodylus moreletii,Belize,Least Concern,560.0,1.74
-2008,Crocodylus rhombifer,Cuba,Critically Endangered,26750.0,2.37
-2010,Crocodylus palustris,Pakistan,Vulnerable,140620.0,0.72
-2017,Crocodylus mindorensis,Philippines,Critically Endangered,133500.0,1.25
-2007,Crocodylus niloticus,Uganda,Least Concern,2870.0,0.1
-2011,Crocodylus moreletii,Belize,Least Concern,670.0,2.03
-2014,Mecistops cataphractus,Nigeria,Critically Endangered,114830.0,0.64
-2006,Crocodylus mindorensis,Philippines,Critically Endangered,69470.0,0.79
-2012,Crocodylus acutus,Cuba,Vulnerable,28690.0,2.54
-2017,Crocodylus novaeguineae,Papua New Guinea,Least Concern,7610.0,0.83
-2012,Crocodylus niloticus,Sudan,Least Concern,15800.0,0.45
-2005,Crocodylus palustris,India,Vulnerable,1136469.97,0.98
-2006,Crocodylus palustris,India,Vulnerable,1215209.96,1.04
-2011,Crocodylus siamensis,Vietnam,Critically Endangered,155970.0,1.77
-2011,Crocodylus johnstoni,Australia,Least Concern,386380.0,17.3
-2009,Crocodylus palustris,India,Vulnerable,1564880.0,1.28
-2005,Mecistops cataphractus,Sierra Leone,Critically Endangered,450.0,0.08
-2019,Crocodylus porosus,Philippines,Least Concern,145420.0,1.32
-2019,Crocodylus siamensis,Vietnam,Critically Endangered,336489.99,3.51
-2008,Crocodylus moreletii,Guatemala,Least Concern,11240.0,0.82
-2006,Osteolaemus tetraspis,Sierra Leone,Vulnerable,590.0,0.1
-2011,Osteolaemus tetraspis,Cameroon,Vulnerable,6810.0,0.33
-2010,Osteolaemus tetraspis,Ghana,Vulnerable,11190.0,0.44
-2011,Crocodylus suchus,Mali,Least Concern,3120.0,0.19
-2009,Crocodylus porosus,Indonesia,Least Concern,391079.99,1.62
-2011,Crocodylus acutus,United States,Vulnerable,5173600.1,16.6
-2010,Crocodylus acutus,Cuba,Vulnerable,28110.0,2.49
-2019,Crocodylus porosus,Australia,Least Concern,386530.0,15.25
-2014,Crocodylus halli,Papua New Guinea,Least Concern,5890.0,0.7
-2011,Crocodylus palustris,Nepal,Vulnerable,5200.0,0.19
-2010,Crocodylus acutus,Colombia,Vulnerable,63560.0,1.42
-2017,Crocodylus palustris,India,Vulnerable,2320409.91,1.71
-2014,Crocodylus moreletii,Belize,Least Concern,480.0,1.36
-2015,Osteolaemus tetraspis,Liberia,Vulnerable,1260.0,0.27
-2015,Mecistops cataphractus,Ghana,Critically Endangered,15780.0,0.55
-2008,Crocodylus moreletii,Mexico,Least Concern,459549.99,4.19
-2010,Osteolaemus tetraspis,Sierra Leone,Vulnerable,560.0,0.09
-2013,Crocodylus niloticus,Uganda,Least Concern,3690.0,0.1
-2013,Crocodylus halli,Papua New Guinea,Least Concern,5240.0,0.64
-2010,Crocodylus novaeguineae,Papua New Guinea,Least Concern,5020.0,0.66
-2012,Mecistops leptorhynchus,Republic Of Congo,Endangered,5260.0,1.12
-2008,Crocodylus niloticus,Nigeria,Least Concern,86930.0,0.57
-2018,Crocodylus rhombifer,Cuba,Critically Endangered,26710.0,2.36
-2018,Mecistops leptorhynchus,Republic Of Congo,Endangered,6490.0,1.19
-2008,Crocodylus palustris,Nepal,Vulnerable,2990.0,0.11
-2007,Crocodylus siamensis,Thailand,Critically Endangered,224590.0,3.36
-2017,Crocodylus porosus,Indonesia,Least Concern,517320.01,1.96
-2007,Crocodylus suchus,Mauritania,Least Concern,1990.0,0.63
-2007,Crocodylus johnstoni,Australia,Least Concern,385750.0,18.52
-2008,Mecistops cataphractus,Nigeria,Critically Endangered,86930.0,0.57
-2012,Crocodylus palustris,Pakistan,Vulnerable,143810.0,0.71
-2017,Crocodylus porosus,Malaysia,Least Concern,227620.0,7.12
-2018,Mecistops cataphractus,Guinea,Critically Endangered,3750.0,0.3
-2016,Osteolaemus tetraspis,Liberia,Vulnerable,1410.0,0.3
-2017,Crocodylus porosus,Australia,Least Concern,389160.0,15.82
-2006,Crocodylus palustris,Pakistan,Vulnerable,132480.0,0.74
-2015,Crocodylus palustris,Sri Lanka,Vulnerable,20360.0,0.97
-2008,Mecistops cataphractus,Guinea,Critically Endangered,2010.0,0.21
-2005,Crocodylus palustris,Sri Lanka,Vulnerable,13980.0,0.72
-2014,Osteolaemus tetraspis,Sierra Leone,Vulnerable,1150.0,0.16
-2007,Crocodylus porosus,Papua New Guinea,Least Concern,5050.0,0.73
-2017,Mecistops leptorhynchus,Cameroon,Endangered,9170.0,0.38
-2016,Crocodylus palustris,Sri Lanka,Vulnerable,21930.0,1.03
-2018,Mecistops leptorhynchus,Cameroon,Endangered,9590.0,0.38
-2008,Crocodylus acutus,Cuba,Vulnerable,26750.0,2.37
-2019,Crocodylus rhombifer,Cuba,Critically Endangered,25910.0,2.29
-2010,Mecistops leptorhynchus,Republic Of Congo,Endangered,5420.0,1.22
-2012,Crocodylus niloticus,Tanzania,Least Concern,9870.0,0.21
-2012,Mecistops cataphractus,Nigeria,Critically Endangered,95340.0,0.56
-2012,Crocodylus intermedius,Colombia,Critically Endangered,69700.0,1.52
-2012,Crocodylus suchus,Chad,Least Concern,1860.0,0.15
-2015,Mecistops leptorhynchus,Gabon,Endangered,6120.0,3.02
-2012,Mecistops cataphractus,Guinea,Critically Endangered,2480.0,0.23
-2012,Osteolaemus tetraspis,Sierra Leone,Vulnerable,860.0,0.13
-2008,Crocodylus palustris,Iran,Vulnerable,523049.99,7.13
-2009,Crocodylus suchus,Sudan,Least Concern,15480.0,0.47
-2012,Crocodylus niloticus,Egypt,Least Concern,215000.0,2.36
-2007,Mecistops cataphractus,Nigeria,Critically Endangered,81120.0,0.55
-2015,Crocodylus suchus,Mauritania,Least Concern,3560.0,0.9
-2010,Mecistops cataphractus,Sierra Leone,Critically Endangered,560.0,0.09
+Year,Scientific Name,Country,Conservation Status
+2018,Crocodylus moreletii,Belize,Least Concern
+2015,Crocodylus acutus,Venezuela,Vulnerable
+2010,Crocodylus intermedius,Venezuela,Critically Endangered
+2019,Crocodylus moreletii,Mexico,Least Concern
+2019,Crocodylus palustris,India,Vulnerable
+2023,Crocodylus palustris,India,Vulnerable
+2010,Crocodylus siamensis,Thailand,Critically Endangered
+2020,Crocodylus suchus,Sudan,Least Concern
+2016,Crocodylus moreletii,Mexico,Least Concern
+2018,Osteolaemus tetraspis,Liberia,Vulnerable
+2019,Crocodylus moreletii,Belize,Least Concern
+2015,Crocodylus siamensis,Cambodia,Critically Endangered
+2006,Crocodylus acutus,Mexico,Vulnerable
+2010,Osteolaemus tetraspis,Ivory Coast,Vulnerable
+2007,Crocodylus moreletii,Mexico,Least Concern
+2025,Crocodylus niloticus,Sudan,Least Concern
+2017,Crocodylus porosus,Philippines,Least Concern
+2013,Crocodylus niloticus,Tanzania,Least Concern
+2007,Crocodylus rhombifer,Cuba,Critically Endangered
+2017,Crocodylus niloticus,Kenya,Least Concern
+2022,Crocodylus palustris,Pakistan,Vulnerable
+2019,Crocodylus intermedius,Venezuela,Critically Endangered
+2012,Crocodylus siamensis,Cambodia,Critically Endangered
+2018,Crocodylus intermedius,Venezuela,Critically Endangered
+2020,Crocodylus siamensis,Thailand,Critically Endangered
+2014,Crocodylus acutus,United States,Vulnerable
+2017,Crocodylus rhombifer,Cuba,Critically Endangered
+2008,Crocodylus mindorensis,Philippines,Critically Endangered
+2024,Crocodylus novaeguineae,Papua New Guinea,Least Concern
+2022,Crocodylus mindorensis,Philippines,Critically Endangered
+2021,Osteolaemus tetraspis,Ivory Coast,Vulnerable
+2010,Mecistops cataphractus,Liberia,Critically Endangered
+2014,Crocodylus johnstoni,Australia,Least Concern
+2017,Crocodylus suchus,Senegal,Least Concern
+2008,Crocodylus palustris,Pakistan,Vulnerable
+2022,Crocodylus niloticus,South Africa,Least Concern
+2008,Crocodylus siamensis,Thailand,Critically Endangered
+2021,Crocodylus moreletii,Mexico,Least Concern
+2006,Crocodylus moreletii,Guatemala,Least Concern
+2012,Crocodylus moreletii,Guatemala,Least Concern
+2024,Crocodylus acutus,Colombia,Vulnerable
+2012,Crocodylus intermedius,Venezuela,Critically Endangered
+2015,Mecistops cataphractus,Sierra Leone,Critically Endangered
+2019,Crocodylus novaeguineae,Indonesia,Least Concern
+2009,Mecistops cataphractus,Sierra Leone,Critically Endangered
+2011,Crocodylus porosus,Papua New Guinea,Least Concern
+2018,Crocodylus novaeguineae,Papua New Guinea,Least Concern
+2019,Mecistops cataphractus,Guinea,Critically Endangered
+2006,Crocodylus intermedius,Venezuela,Critically Endangered
+2010,Mecistops cataphractus,Nigeria,Critically Endangered
+2015,Crocodylus porosus,Indonesia,Least Concern
+2005,Crocodylus novaeguineae,Indonesia,Least Concern
+2015,Crocodylus siamensis,Vietnam,Critically Endangered
+2014,Osteolaemus tetraspis,Cameroon,Vulnerable
+2015,Crocodylus niloticus,Kenya,Least Concern
+2009,Crocodylus johnstoni,Australia,Least Concern
+2005,Crocodylus rhombifer,Cuba,Critically Endangered
+2024,Crocodylus acutus,Venezuela,Vulnerable
+2014,Mecistops leptorhynchus,Cameroon,Endangered
+2006,Crocodylus porosus,Philippines,Least Concern
+2011,Mecistops leptorhynchus,Republic Of Congo,Endangered
+2005,Mecistops cataphractus,Nigeria,Critically Endangered
+2009,Crocodylus niloticus,Egypt,Least Concern
+2023,Crocodylus moreletii,Guatemala,Least Concern
+2013,Crocodylus suchus,Mali,Least Concern
+2019,Mecistops leptorhynchus,Gabon,Endangered
+2018,Crocodylus porosus,Malaysia,Least Concern
+2017,Crocodylus moreletii,Guatemala,Least Concern
+2022,Crocodylus suchus,Niger,Least Concern
+2011,Crocodylus mindorensis,Philippines,Critically Endangered
+2015,Crocodylus moreletii,Guatemala,Least Concern
+2017,Mecistops leptorhynchus,Republic Of Congo,Endangered
+2021,Osteolaemus tetraspis,Sierra Leone,Vulnerable
+2025,Crocodylus palustris,Pakistan,Vulnerable
+2017,Crocodylus acutus,Costa Rica,Vulnerable
+2009,Crocodylus halli,Papua New Guinea,Least Concern
+2018,Crocodylus moreletii,Guatemala,Least Concern
+2013,Crocodylus niloticus,Kenya,Least Concern
+2018,Crocodylus acutus,Mexico,Vulnerable
+2011,Crocodylus intermedius,Colombia,Critically Endangered
+2016,Crocodylus palustris,Pakistan,Vulnerable
+2025,Crocodylus suchus,Mali,Least Concern
+2006,Crocodylus suchus,Chad,Least Concern
+2022,Crocodylus rhombifer,Cuba,Critically Endangered
+2006,Crocodylus novaeguineae,Indonesia,Least Concern
+2013,Crocodylus porosus,Papua New Guinea,Least Concern
+2019,Crocodylus mindorensis,Philippines,Critically Endangered
+2006,Mecistops cataphractus,Liberia,Critically Endangered
+2011,Crocodylus suchus,Senegal,Least Concern
+2020,Crocodylus rhombifer,Cuba,Critically Endangered
+2024,Crocodylus halli,Papua New Guinea,Least Concern
+2014,Crocodylus suchus,Niger,Least Concern
+2013,Mecistops cataphractus,Nigeria,Critically Endangered
+2006,Crocodylus johnstoni,Australia,Least Concern
+2025,Crocodylus moreletii,Mexico,Least Concern
+2019,Crocodylus niloticus,Tanzania,Least Concern
+2009,Crocodylus porosus,India,Least Concern
+2005,Crocodylus johnstoni,Australia,Least Concern
+2017,Crocodylus johnstoni,Australia,Least Concern
+2021,Crocodylus porosus,Indonesia,Least Concern
+2011,Crocodylus porosus,Australia,Least Concern
+2021,Crocodylus suchus,Chad,Least Concern
+2008,Crocodylus intermedius,Colombia,Critically Endangered
+2006,Crocodylus porosus,Malaysia,Least Concern
+2017,Osteolaemus tetraspis,Guinea,Vulnerable
+2007,Crocodylus halli,Papua New Guinea,Least Concern
+2020,Osteolaemus tetraspis,Ivory Coast,Vulnerable
+2015,Crocodylus palustris,Iran,Vulnerable
+2007,Crocodylus acutus,Costa Rica,Vulnerable
+2023,Mecistops cataphractus,Guinea,Critically Endangered
+2011,Crocodylus intermedius,Venezuela,Critically Endangered
+2005,Crocodylus acutus,Mexico,Vulnerable
+2019,Crocodylus siamensis,Laos,Critically Endangered
+2012,Crocodylus suchus,Senegal,Least Concern
+2024,Crocodylus rhombifer,Cuba,Critically Endangered
+2016,Crocodylus novaeguineae,Indonesia,Least Concern
+2013,Crocodylus niloticus,Nigeria,Least Concern
+2017,Crocodylus suchus,Niger,Least Concern
+2018,Osteolaemus tetraspis,Ghana,Vulnerable
+2015,Crocodylus novaeguineae,Indonesia,Least Concern
+2005,Crocodylus halli,Papua New Guinea,Least Concern
+2007,Crocodylus porosus,India,Least Concern
+2008,Crocodylus novaeguineae,Papua New Guinea,Least Concern
+2023,Mecistops leptorhynchus,Republic Of Congo,Endangered
+2018,Crocodylus suchus,Senegal,Least Concern
+2005,Crocodylus palustris,Iran,Vulnerable
+2021,Mecistops leptorhynchus,Republic Of Congo,Endangered
+2009,Crocodylus moreletii,Mexico,Least Concern
+2008,Mecistops cataphractus,Ghana,Critically Endangered
+2022,Crocodylus siamensis,Laos,Critically Endangered
+2021,Crocodylus johnstoni,Australia,Least Concern
+2009,Osteolaemus tetraspis,Ghana,Vulnerable
+2025,Crocodylus niloticus,South Africa,Least Concern
+2021,Crocodylus moreletii,Guatemala,Least Concern
+2010,Crocodylus suchus,Mauritania,Least Concern
+2008,Crocodylus porosus,Philippines,Least Concern
+2017,Mecistops cataphractus,Nigeria,Critically Endangered
+2025,Crocodylus siamensis,Cambodia,Critically Endangered
+2013,Crocodylus moreletii,Belize,Least Concern
+2008,Osteolaemus tetraspis,Guinea,Vulnerable
+2025,Crocodylus porosus,Papua New Guinea,Least Concern
+2023,Crocodylus niloticus,Uganda,Least Concern
+2010,Osteolaemus tetraspis,Cameroon,Vulnerable
+2019,Crocodylus acutus,Costa Rica,Vulnerable
+2025,Crocodylus porosus,Indonesia,Least Concern
+2018,Crocodylus acutus,United States,Vulnerable
+2013,Crocodylus johnstoni,Australia,Least Concern
+2007,Crocodylus acutus,Mexico,Vulnerable
+2021,Crocodylus rhombifer,Cuba,Critically Endangered
+2008,Crocodylus moreletii,Belize,Least Concern
+2013,Mecistops leptorhynchus,Cameroon,Endangered
+2020,Crocodylus intermedius,Colombia,Critically Endangered
+2013,Crocodylus palustris,Iran,Vulnerable
+2008,Crocodylus porosus,Malaysia,Least Concern
+2013,Crocodylus novaeguineae,Indonesia,Least Concern
+2012,Crocodylus rhombifer,Cuba,Critically Endangered
+2019,Mecistops leptorhynchus,Cameroon,Endangered
+2013,Osteolaemus tetraspis,Guinea,Vulnerable
+2007,Crocodylus moreletii,Belize,Least Concern
+2013,Crocodylus intermedius,Venezuela,Critically Endangered
+2016,Crocodylus rhombifer,Cuba,Critically Endangered
+2022,Osteolaemus tetraspis,Cameroon,Vulnerable
+2020,Osteolaemus tetraspis,Sierra Leone,Vulnerable
+2022,Crocodylus novaeguineae,Papua New Guinea,Least Concern
+2007,Crocodylus siamensis,Vietnam,Critically Endangered
+2017,Crocodylus acutus,Colombia,Vulnerable
+2020,Crocodylus porosus,India,Least Concern
+2014,Crocodylus siamensis,Cambodia,Critically Endangered
+2020,Crocodylus niloticus,Uganda,Least Concern
+2019,Crocodylus palustris,Sri Lanka,Vulnerable
+2020,Crocodylus niloticus,South Africa,Least Concern
+2011,Crocodylus moreletii,Guatemala,Least Concern
+2016,Crocodylus porosus,Australia,Least Concern
+2006,Crocodylus rhombifer,Cuba,Critically Endangered
+2020,Crocodylus porosus,Papua New Guinea,Least Concern
+2012,Mecistops leptorhynchus,Gabon,Endangered
+2010,Crocodylus acutus,Mexico,Vulnerable
+2017,Osteolaemus tetraspis,Cameroon,Vulnerable
+2023,Crocodylus novaeguineae,Papua New Guinea,Least Concern
+2018,Mecistops cataphractus,Sierra Leone,Critically Endangered
+2024,Mecistops leptorhynchus,Republic Of Congo,Endangered
+2005,Crocodylus mindorensis,Philippines,Critically Endangered
+2011,Crocodylus novaeguineae,Indonesia,Least Concern
+2008,Crocodylus acutus,Mexico,Vulnerable
+2007,Crocodylus suchus,Chad,Least Concern
+2009,Crocodylus moreletii,Guatemala,Least Concern
+2016,Crocodylus acutus,Mexico,Vulnerable
+2010,Crocodylus intermedius,Colombia,Critically Endangered
+2023,Mecistops leptorhynchus,Gabon,Endangered
+2023,Crocodylus novaeguineae,Indonesia,Least Concern
+2020,Crocodylus johnstoni,Australia,Least Concern
+2024,Crocodylus suchus,Sudan,Least Concern
+2013,Mecistops cataphractus,Ivory Coast,Critically Endangered
+2012,Crocodylus acutus,Venezuela,Vulnerable
+2015,Crocodylus moreletii,Mexico,Least Concern
+2007,Crocodylus suchus,Mali,Least Concern
+2018,Crocodylus johnstoni,Australia,Least Concern
+2025,Crocodylus intermedius,Venezuela,Critically Endangered
+2013,Crocodylus siamensis,Laos,Critically Endangered
+2014,Crocodylus porosus,Indonesia,Least Concern
+2016,Crocodylus acutus,Cuba,Vulnerable
+2023,Osteolaemus tetraspis,Guinea,Vulnerable
+2005,Mecistops leptorhynchus,Gabon,Endangered
+2015,Crocodylus mindorensis,Philippines,Critically Endangered
+2010,Crocodylus niloticus,Uganda,Least Concern
+2011,Osteolaemus tetraspis,Liberia,Vulnerable
+2011,Crocodylus acutus,Cuba,Vulnerable
+2005,Crocodylus palustris,Pakistan,Vulnerable
+2006,Crocodylus palustris,Iran,Vulnerable
+2009,Crocodylus mindorensis,Philippines,Critically Endangered
+2009,Crocodylus rhombifer,Cuba,Critically Endangered
+2025,Crocodylus acutus,Costa Rica,Vulnerable
+2011,Crocodylus niloticus,Tanzania,Least Concern
+2009,Osteolaemus tetraspis,Cameroon,Vulnerable
+2014,Crocodylus porosus,Malaysia,Least Concern
+2007,Crocodylus siamensis,Cambodia,Critically Endangered
+2025,Crocodylus mindorensis,Philippines,Critically Endangered
+2010,Crocodylus niloticus,South Africa,Least Concern
+2021,Mecistops cataphractus,Guinea,Critically Endangered
+2007,Crocodylus niloticus,Tanzania,Least Concern
+2024,Crocodylus moreletii,Mexico,Least Concern
+2018,Crocodylus porosus,Australia,Least Concern
+2016,Mecistops leptorhynchus,Republic Of Congo,Endangered
+2025,Osteolaemus tetraspis,Ghana,Vulnerable
+2009,Crocodylus intermedius,Colombia,Critically Endangered
+2014,Crocodylus acutus,Colombia,Vulnerable
+2012,Crocodylus novaeguineae,Indonesia,Least Concern
+2016,Crocodylus mindorensis,Philippines,Critically Endangered
+2016,Crocodylus siamensis,Laos,Critically Endangered
+2019,Crocodylus novaeguineae,Papua New Guinea,Least Concern
+2021,Crocodylus novaeguineae,Indonesia,Least Concern
+2023,Crocodylus johnstoni,Australia,Least Concern
+2006,Mecistops leptorhynchus,Republic Of Congo,Endangered
+2013,Mecistops cataphractus,Liberia,Critically Endangered
+2008,Osteolaemus tetraspis,Ghana,Vulnerable
+2014,Crocodylus niloticus,South Africa,Least Concern
+2024,Crocodylus suchus,Mali,Least Concern
+2012,Crocodylus porosus,India,Least Concern
+2015,Crocodylus rhombifer,Cuba,Critically Endangered
+2011,Crocodylus siamensis,Cambodia,Critically Endangered
+2012,Mecistops leptorhynchus,Cameroon,Endangered
+2019,Crocodylus siamensis,Cambodia,Critically Endangered
+2017,Crocodylus halli,Papua New Guinea,Least Concern
+2008,Crocodylus novaeguineae,Indonesia,Least Concern
+2015,Crocodylus halli,Papua New Guinea,Least Concern
+2010,Crocodylus rhombifer,Cuba,Critically Endangered
+2019,Mecistops leptorhynchus,Republic Of Congo,Endangered
+2021,Crocodylus porosus,Malaysia,Least Concern
+2018,Crocodylus mindorensis,Philippines,Critically Endangered
+2020,Mecistops cataphractus,Ivory Coast,Critically Endangered
+2017,Crocodylus intermedius,Venezuela,Critically Endangered
+2016,Crocodylus siamensis,Cambodia,Critically Endangered
+2013,Crocodylus mindorensis,Philippines,Critically Endangered
+2006,Crocodylus palustris,Sri Lanka,Vulnerable
+2020,Crocodylus intermedius,Venezuela,Critically Endangered
+2020,Mecistops leptorhynchus,Republic Of Congo,Endangered
+2020,Crocodylus porosus,Australia,Least Concern
+2009,Crocodylus suchus,Chad,Least Concern
+2023,Crocodylus siamensis,Cambodia,Critically Endangered
+2017,Crocodylus siamensis,Thailand,Critically Endangered
+2011,Crocodylus acutus,Colombia,Vulnerable
+2017,Mecistops cataphractus,Ivory Coast,Critically Endangered
+2011,Crocodylus palustris,Pakistan,Vulnerable
+2014,Mecistops leptorhynchus,Republic Of Congo,Endangered
+2023,Crocodylus palustris,Nepal,Vulnerable
+2020,Crocodylus siamensis,Vietnam,Critically Endangered
+2008,Crocodylus niloticus,Kenya,Least Concern
+2021,Mecistops leptorhynchus,Gabon,Endangered
+2024,Crocodylus intermedius,Venezuela,Critically Endangered
+2014,Crocodylus novaeguineae,Indonesia,Least Concern
+2025,Osteolaemus tetraspis,Sierra Leone,Vulnerable
+2016,Mecistops cataphractus,Guinea,Critically Endangered
+2025,Crocodylus novaeguineae,Indonesia,Least Concern
+2016,Mecistops cataphractus,Ghana,Critically Endangered
+2025,Crocodylus porosus,India,Least Concern
+2005,Mecistops leptorhynchus,Republic Of Congo,Endangered
+2011,Crocodylus porosus,Philippines,Least Concern
+2015,Crocodylus johnstoni,Australia,Least Concern
+2020,Crocodylus mindorensis,Philippines,Critically Endangered
+2008,Crocodylus halli,Papua New Guinea,Least Concern
+2019,Osteolaemus tetraspis,Liberia,Vulnerable
+2015,Crocodylus niloticus,Sudan,Least Concern
+2012,Crocodylus mindorensis,Philippines,Critically Endangered
+2012,Crocodylus siamensis,Vietnam,Critically Endangered
+2025,Crocodylus acutus,Venezuela,Vulnerable
+2018,Mecistops cataphractus,Liberia,Critically Endangered
+2019,Crocodylus palustris,Nepal,Vulnerable
+2009,Mecistops leptorhynchus,Republic Of Congo,Endangered
+2016,Crocodylus novaeguineae,Papua New Guinea,Least Concern
+2016,Crocodylus johnstoni,Australia,Least Concern
+2018,Crocodylus moreletii,Mexico,Least Concern
+2017,Crocodylus palustris,Sri Lanka,Vulnerable
+2015,Crocodylus novaeguineae,Papua New Guinea,Least Concern
+2018,Crocodylus halli,Papua New Guinea,Least Concern
+2005,Crocodylus porosus,Papua New Guinea,Least Concern
+2007,Crocodylus novaeguineae,Papua New Guinea,Least Concern
+2012,Mecistops cataphractus,Ivory Coast,Critically Endangered
+2012,Osteolaemus tetraspis,Ivory Coast,Vulnerable
+2018,Crocodylus novaeguineae,Indonesia,Least Concern
+2013,Crocodylus moreletii,Mexico,Least Concern
+2013,Crocodylus novaeguineae,Papua New Guinea,Least Concern
+2008,Crocodylus acutus,Colombia,Vulnerable
+2007,Mecistops cataphractus,Ghana,Critically Endangered
+2024,Crocodylus suchus,Niger,Least Concern
+2023,Crocodylus rhombifer,Cuba,Critically Endangered
+2025,Crocodylus palustris,Iran,Vulnerable
+2015,Crocodylus porosus,Philippines,Least Concern
+2023,Crocodylus intermedius,Colombia,Critically Endangered
+2020,Crocodylus moreletii,Mexico,Least Concern
+2022,Mecistops cataphractus,Liberia,Critically Endangered
+2014,Crocodylus acutus,Mexico,Vulnerable
+2021,Crocodylus suchus,Niger,Least Concern
+2025,Crocodylus acutus,Colombia,Vulnerable
+2007,Mecistops leptorhynchus,Republic Of Congo,Endangered
+2005,Crocodylus niloticus,Kenya,Least Concern
+2021,Crocodylus novaeguineae,Papua New Guinea,Least Concern
+2020,Crocodylus acutus,Colombia,Vulnerable
+2020,Crocodylus palustris,Iran,Vulnerable
+2020,Mecistops leptorhynchus,Cameroon,Endangered
+2011,Mecistops leptorhynchus,Cameroon,Endangered
+2005,Crocodylus novaeguineae,Papua New Guinea,Least Concern
+2021,Crocodylus porosus,Papua New Guinea,Least Concern
+2021,Crocodylus halli,Papua New Guinea,Least Concern
+2011,Crocodylus rhombifer,Cuba,Critically Endangered
+2020,Crocodylus halli,Papua New Guinea,Least Concern
+2007,Crocodylus acutus,Cuba,Vulnerable
+2025,Crocodylus rhombifer,Cuba,Critically Endangered
+2008,Osteolaemus tetraspis,Liberia,Vulnerable
+2022,Crocodylus intermedius,Venezuela,Critically Endangered
+2016,Mecistops leptorhynchus,Cameroon,Endangered
+2006,Crocodylus niloticus,Egypt,Least Concern
+2012,Crocodylus johnstoni,Australia,Least Concern
+2009,Crocodylus acutus,Cuba,Vulnerable
+2020,Crocodylus moreletii,Guatemala,Least Concern
+2012,Crocodylus moreletii,Mexico,Least Concern
+2022,Crocodylus acutus,Costa Rica,Vulnerable
+2020,Crocodylus niloticus,Sudan,Least Concern
+2009,Mecistops leptorhynchus,Cameroon,Endangered
+2022,Crocodylus intermedius,Colombia,Critically Endangered
+2022,Mecistops leptorhynchus,Cameroon,Endangered
+2024,Crocodylus suchus,Senegal,Least Concern
+2019,Crocodylus halli,Papua New Guinea,Least Concern
+2014,Mecistops leptorhynchus,Gabon,Endangered
+2019,Crocodylus intermedius,Colombia,Critically Endangered
+2023,Osteolaemus tetraspis,Cameroon,Vulnerable
+2023,Crocodylus acutus,Cuba,Vulnerable
+2022,Crocodylus suchus,Mauritania,Least Concern
+2009,Crocodylus novaeguineae,Indonesia,Least Concern
+2006,Crocodylus niloticus,South Africa,Least Concern
+2006,Crocodylus niloticus,Kenya,Least Concern
+2012,Crocodylus novaeguineae,Papua New Guinea,Least Concern
+2010,Crocodylus porosus,India,Least Concern
+2021,Mecistops cataphractus,Liberia,Critically Endangered
+2017,Crocodylus siamensis,Vietnam,Critically Endangered
+2005,Crocodylus niloticus,Tanzania,Least Concern
+2012,Crocodylus halli,Papua New Guinea,Least Concern
+2018,Crocodylus suchus,Mauritania,Least Concern
+2019,Crocodylus porosus,Malaysia,Least Concern
+2016,Mecistops cataphractus,Ivory Coast,Critically Endangered
+2009,Crocodylus intermedius,Venezuela,Critically Endangered
+2016,Osteolaemus tetraspis,Ghana,Vulnerable
+2020,Crocodylus suchus,Senegal,Least Concern
+2013,Crocodylus rhombifer,Cuba,Critically Endangered
+2007,Osteolaemus tetraspis,Ghana,Vulnerable
+2014,Crocodylus porosus,Philippines,Least Concern
+2022,Crocodylus siamensis,Thailand,Critically Endangered
+2025,Crocodylus novaeguineae,Papua New Guinea,Least Concern
+2024,Mecistops cataphractus,Liberia,Critically Endangered
+2010,Crocodylus palustris,Nepal,Vulnerable
+2005,Crocodylus intermedius,Venezuela,Critically Endangered
+2022,Crocodylus porosus,Papua New Guinea,Least Concern
+2006,Crocodylus porosus,India,Least Concern
+2021,Crocodylus mindorensis,Philippines,Critically Endangered
+2006,Crocodylus niloticus,Nigeria,Least Concern
+2005,Crocodylus moreletii,Mexico,Least Concern
+2010,Crocodylus siamensis,Vietnam,Critically Endangered
+2020,Crocodylus acutus,Venezuela,Vulnerable
+2020,Mecistops cataphractus,Ghana,Critically Endangered
+2018,Mecistops leptorhynchus,Gabon,Endangered
+2013,Crocodylus suchus,Chad,Least Concern
+2007,Osteolaemus tetraspis,Liberia,Vulnerable
+2010,Crocodylus halli,Papua New Guinea,Least Concern
+2005,Crocodylus niloticus,Uganda,Least Concern
+2016,Crocodylus suchus,Chad,Least Concern
+2010,Crocodylus porosus,Philippines,Least Concern
+2013,Crocodylus acutus,Mexico,Vulnerable
+2019,Crocodylus johnstoni,Australia,Least Concern
+2012,Crocodylus palustris,Sri Lanka,Vulnerable
+2023,Crocodylus mindorensis,Philippines,Critically Endangered
+2017,Crocodylus novaeguineae,Indonesia,Least Concern
+2007,Osteolaemus tetraspis,Sierra Leone,Vulnerable
+2006,Mecistops leptorhynchus,Gabon,Endangered
+2007,Crocodylus palustris,Sri Lanka,Vulnerable
+2019,Crocodylus palustris,Iran,Vulnerable
+2016,Crocodylus intermedius,Venezuela,Critically Endangered
+2008,Crocodylus niloticus,Tanzania,Least Concern
+2024,Crocodylus mindorensis,Philippines,Critically Endangered
+2014,Crocodylus suchus,Mali,Least Concern
+2010,Crocodylus suchus,Sudan,Least Concern
+2016,Crocodylus niloticus,Uganda,Least Concern
+2014,Crocodylus rhombifer,Cuba,Critically Endangered
+2025,Crocodylus moreletii,Belize,Least Concern
+2005,Mecistops leptorhynchus,Cameroon,Endangered
+2021,Crocodylus moreletii,Belize,Least Concern
+2021,Crocodylus suchus,Mali,Least Concern
+2008,Osteolaemus tetraspis,Cameroon,Vulnerable
+2007,Crocodylus suchus,Niger,Least Concern
+2019,Crocodylus suchus,Mali,Least Concern
+2014,Crocodylus suchus,Senegal,Least Concern
+2017,Crocodylus intermedius,Colombia,Critically Endangered
+2009,Mecistops cataphractus,Nigeria,Critically Endangered
+2016,Osteolaemus tetraspis,Guinea,Vulnerable
+2017,Osteolaemus tetraspis,Liberia,Vulnerable
+2018,Crocodylus intermedius,Colombia,Critically Endangered
+2025,Crocodylus siamensis,Laos,Critically Endangered
+2007,Crocodylus niloticus,South Africa,Least Concern
+2020,Crocodylus niloticus,Nigeria,Least Concern
+2011,Crocodylus suchus,Niger,Least Concern
+2010,Crocodylus porosus,Australia,Least Concern
+2020,Crocodylus acutus,Cuba,Vulnerable
+2014,Crocodylus moreletii,Guatemala,Least Concern
+2007,Mecistops cataphractus,Sierra Leone,Critically Endangered
+2006,Crocodylus siamensis,Vietnam,Critically Endangered
+2005,Osteolaemus tetraspis,Ghana,Vulnerable
+2020,Crocodylus porosus,Philippines,Least Concern
+2007,Crocodylus mindorensis,Philippines,Critically Endangered
+2013,Crocodylus acutus,Colombia,Vulnerable
+2022,Crocodylus niloticus,Kenya,Least Concern
+2024,Crocodylus moreletii,Guatemala,Least Concern
+2022,Crocodylus johnstoni,Australia,Least Concern
+2007,Crocodylus novaeguineae,Indonesia,Least Concern
+2022,Crocodylus suchus,Senegal,Least Concern
+2025,Crocodylus halli,Papua New Guinea,Least Concern
+2015,Crocodylus palustris,Pakistan,Vulnerable
+2024,Crocodylus niloticus,South Africa,Least Concern
+2023,Crocodylus palustris,Pakistan,Vulnerable
+2010,Crocodylus moreletii,Belize,Least Concern
+2008,Crocodylus rhombifer,Cuba,Critically Endangered
+2024,Crocodylus johnstoni,Australia,Least Concern
+2010,Crocodylus palustris,Pakistan,Vulnerable
+2023,Crocodylus acutus,Mexico,Vulnerable
+2019,Mecistops cataphractus,Ivory Coast,Critically Endangered
+2017,Crocodylus mindorensis,Philippines,Critically Endangered
+2007,Crocodylus niloticus,Uganda,Least Concern
+2011,Crocodylus moreletii,Belize,Least Concern
+2014,Mecistops cataphractus,Nigeria,Critically Endangered
+2006,Crocodylus mindorensis,Philippines,Critically Endangered
+2025,Crocodylus acutus,Cuba,Vulnerable
+2022,Crocodylus porosus,India,Least Concern
+2012,Crocodylus acutus,Cuba,Vulnerable
+2017,Crocodylus novaeguineae,Papua New Guinea,Least Concern
+2012,Crocodylus niloticus,Sudan,Least Concern
+2023,Crocodylus acutus,Costa Rica,Vulnerable
+2005,Crocodylus palustris,India,Vulnerable
+2006,Crocodylus palustris,India,Vulnerable
+2011,Crocodylus siamensis,Vietnam,Critically Endangered
+2023,Crocodylus intermedius,Venezuela,Critically Endangered
+2013,Osteolaemus tetraspis,Ivory Coast,Vulnerable
+2011,Crocodylus johnstoni,Australia,Least Concern
+2009,Crocodylus palustris,India,Vulnerable
+2005,Mecistops cataphractus,Sierra Leone,Critically Endangered
+2019,Crocodylus porosus,Philippines,Least Concern
+2019,Crocodylus siamensis,Vietnam,Critically Endangered
+2008,Crocodylus moreletii,Guatemala,Least Concern
+2006,Osteolaemus tetraspis,Sierra Leone,Vulnerable
+2020,Osteolaemus tetraspis,Liberia,Vulnerable
+2011,Osteolaemus tetraspis,Cameroon,Vulnerable
+2010,Osteolaemus tetraspis,Ghana,Vulnerable
+2011,Crocodylus suchus,Mali,Least Concern
+2009,Crocodylus porosus,Indonesia,Least Concern
+2011,Crocodylus acutus,United States,Vulnerable
+2010,Crocodylus acutus,Cuba,Vulnerable
+2022,Osteolaemus tetraspis,Ivory Coast,Vulnerable
+2019,Crocodylus porosus,Australia,Least Concern
+2006,Crocodylus siamensis,Laos,Critically Endangered
+2014,Crocodylus halli,Papua New Guinea,Least Concern
+2011,Crocodylus palustris,Nepal,Vulnerable
+2010,Crocodylus acutus,Colombia,Vulnerable
+2017,Crocodylus palustris,India,Vulnerable
+2014,Crocodylus moreletii,Belize,Least Concern
+2021,Crocodylus acutus,Mexico,Vulnerable
+2015,Osteolaemus tetraspis,Liberia,Vulnerable
+2015,Mecistops cataphractus,Ghana,Critically Endangered
+2008,Crocodylus moreletii,Mexico,Least Concern
+2010,Osteolaemus tetraspis,Sierra Leone,Vulnerable
+2024,Crocodylus acutus,Costa Rica,Vulnerable
+2020,Crocodylus niloticus,Tanzania,Least Concern
+2011,Mecistops cataphractus,Ivory Coast,Critically Endangered
+2013,Crocodylus niloticus,Uganda,Least Concern
+2013,Crocodylus halli,Papua New Guinea,Least Concern
+2010,Crocodylus novaeguineae,Papua New Guinea,Least Concern
+2012,Mecistops leptorhynchus,Republic Of Congo,Endangered
+2025,Osteolaemus tetraspis,Ivory Coast,Vulnerable
+2008,Crocodylus niloticus,Nigeria,Least Concern
+2025,Crocodylus intermedius,Colombia,Critically Endangered
+2021,Mecistops leptorhynchus,Cameroon,Endangered
+2022,Crocodylus acutus,Mexico,Vulnerable
+2021,Mecistops cataphractus,Nigeria,Critically Endangered
+2024,Crocodylus porosus,India,Least Concern
+2023,Crocodylus siamensis,Thailand,Critically Endangered
+2018,Crocodylus rhombifer,Cuba,Critically Endangered
+2018,Mecistops leptorhynchus,Republic Of Congo,Endangered
+2008,Crocodylus palustris,Nepal,Vulnerable
+2023,Mecistops leptorhynchus,Cameroon,Endangered
+2007,Crocodylus siamensis,Thailand,Critically Endangered
+2017,Crocodylus porosus,Indonesia,Least Concern
+2023,Crocodylus acutus,Venezuela,Vulnerable
+2025,Crocodylus acutus,United States,Vulnerable
+2007,Crocodylus suchus,Mauritania,Least Concern
+2007,Crocodylus siamensis,Laos,Critically Endangered
+2007,Crocodylus johnstoni,Australia,Least Concern
+2025,Crocodylus moreletii,Guatemala,Least Concern
+2008,Mecistops cataphractus,Nigeria,Critically Endangered
+2021,Crocodylus palustris,India,Vulnerable
+2012,Crocodylus palustris,Pakistan,Vulnerable
+2017,Crocodylus porosus,Malaysia,Least Concern
+2018,Mecistops cataphractus,Guinea,Critically Endangered
+2016,Osteolaemus tetraspis,Liberia,Vulnerable
+2025,Mecistops leptorhynchus,Cameroon,Endangered
+2017,Crocodylus porosus,Australia,Least Concern
+2006,Crocodylus palustris,Pakistan,Vulnerable
+2021,Mecistops cataphractus,Sierra Leone,Critically Endangered
+2022,Mecistops cataphractus,Nigeria,Critically Endangered
+2015,Crocodylus palustris,Sri Lanka,Vulnerable
+2024,Crocodylus acutus,Cuba,Vulnerable
+2008,Mecistops cataphractus,Guinea,Critically Endangered
+2022,Crocodylus suchus,Sudan,Least Concern
+2005,Crocodylus palustris,Sri Lanka,Vulnerable
+2023,Crocodylus suchus,Mali,Least Concern
+2014,Osteolaemus tetraspis,Sierra Leone,Vulnerable
+2024,Osteolaemus tetraspis,Guinea,Vulnerable
+2007,Crocodylus porosus,Papua New Guinea,Least Concern
+2025,Mecistops cataphractus,Sierra Leone,Critically Endangered
+2017,Mecistops leptorhynchus,Cameroon,Endangered
+2009,Mecistops cataphractus,Ivory Coast,Critically Endangered
+2016,Crocodylus palustris,Sri Lanka,Vulnerable
+2018,Mecistops leptorhynchus,Cameroon,Endangered
+2008,Crocodylus acutus,Cuba,Vulnerable
+2019,Crocodylus rhombifer,Cuba,Critically Endangered
+2010,Mecistops leptorhynchus,Republic Of Congo,Endangered
+2012,Crocodylus niloticus,Tanzania,Least Concern
+2012,Mecistops cataphractus,Nigeria,Critically Endangered
+2012,Crocodylus intermedius,Colombia,Critically Endangered
+2012,Crocodylus suchus,Chad,Least Concern
+2021,Crocodylus niloticus,Tanzania,Least Concern
+2015,Mecistops leptorhynchus,Gabon,Endangered
+2012,Mecistops cataphractus,Guinea,Critically Endangered
+2020,Crocodylus moreletii,Belize,Least Concern
+2025,Crocodylus suchus,Chad,Least Concern
+2012,Osteolaemus tetraspis,Sierra Leone,Vulnerable
+2008,Crocodylus palustris,Iran,Vulnerable
+2009,Crocodylus suchus,Sudan,Least Concern
+2022,Crocodylus halli,Papua New Guinea,Least Concern
+2012,Crocodylus niloticus,Egypt,Least Concern
+2007,Mecistops cataphractus,Nigeria,Critically Endangered
+2015,Crocodylus suchus,Mauritania,Least Concern
+2023,Crocodylus halli,Papua New Guinea,Least Concern
+2014,Mecistops cataphractus,Ivory Coast,Critically Endangered
+2010,Mecistops cataphractus,Sierra Leone,Critically Endangered
